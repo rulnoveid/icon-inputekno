@@ -17,4 +17,4 @@
 
 💙 Join the channel to see more videos like this. [InpuTekno](https://www.youtube.com/@InpuTekno)
 
-![preview img](/logo-inputekno-horizontal.webp)
+<p><img alt="logo-inputekno" src="/logo-inputekno-horizontal.webp" width="20%"/></p>
